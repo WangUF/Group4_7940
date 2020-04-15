@@ -1,0 +1,5 @@
+flask
+redis
+line-bot-sdk
+requests
+beautifulsoup4==4.6.3
